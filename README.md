@@ -1,4 +1,4 @@
-![Descrição da imagem](https://github.com/danielacabrera2103/Bootcamp-Santander-Code-Girls---2025/blob/main/Imagens/aws.png)
+![Descrição da imagem](https://github.com/danielacabrera2103/Bootcamp-Santander-Code-Girls---2025/blob/main/images/aws.png)
   
 # Santader Code Girls 2025 🚀
 
