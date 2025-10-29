@@ -97,22 +97,8 @@ Gerenciar custos na nuvem é essencial. Pequenas ações podem gerar grandes eco
 ---
 
 ## 🧾 Boas Práticas para EC2  
-✅ Configure grupos de segurança com o mínimo necessário de portas abertas.  
-✅ Use **CloudWatch** para monitorar desempenho e alertas.  
-✅ Habilite **Auto Scaling** para ajustar a capacidade automaticamente.  
-✅ Atribua **IAM Roles** com o princípio de menor privilégio.  
-✅ Faça **backups regulares** com snapshots do EBS.  
-✅ Evite deixar portas **22 (SSH)** e **3389 (RDP)** públicas.  
-✅ Analise periodicamente **custos e uso** com o AWS Cost Explorer.  
-
----
-
-## 💬 Insights e Aprendizados  
-Durante os testes com EC2, ficou claro que este serviço é o **coração da infraestrutura AWS**, integrando-se perfeitamente ao EBS e S3 para criar ambientes **escaláveis, resilientes e eficientes**.  
-
-Aprender sobre **otimização de custos** foi um ponto-chave: entender o consumo, monitorar métricas e ajustar recursos traz mais controle e eficiência.  
-
-Registrar esse aprendizado no GitHub ajuda a consolidar o conhecimento e construir um portfólio técnico que reflete minha evolução em **Computação em Nuvem**.  
-
----
+✅ Usar AWS Cost Explorer para mensurar gastos de serviços e custo de recursos de acordo com capacidade de CPU, sistema operacional, memória, etc
+✅ Usar o AWs Budgets para criar alertas de orçamento, evitando problemas com cobranças inesperadas.
+✅ IAM - Importância da criação de políticas de acesso de usuários, grupos, etc.
+✅ Uso de EBS para armazenamento de backups frequentes.
 
